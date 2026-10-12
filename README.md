@@ -6,6 +6,8 @@
 ![CSS3](https://img.shields.io/badge/CSS3-Modern-blue?logo=css3)
 ![License](https://img.shields.io/badge/License-MIT-green)
 
+[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https%3A%2F%2Fgithub.com%2F24eg109b47-dev%2Ffoodiehub-frontend)
+
 > **FoodieHub Frontend** is an ultra-fast, responsive single-page web application (SPA) built with **React 19** and **Vite**. Designed with an appetizing UI, interactive cart drawer, real-time order tracking stepper, and seamless connectivity to the FoodieHub Spring Boot backend REST APIs.
 
 ---
